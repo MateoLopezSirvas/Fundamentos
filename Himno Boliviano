@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"Boivianos,el hado propicio"<<endl;
+    cout<<"Corono nuestros votos y anhelos"<<endl;
+    cout<<"es ya libre,ya libre, este suelo"<<endl;
+    cout<<"Ya ceso su servil condicion"<<endl;
+    cout<<"Al estruendo marcial que ayer fuera "<<endl;
+    cout<<"y al clamor de la guerra horroroso"<<endl;
+    cout<<"siguen hoy, en contraste armonioso"<<endl;
+    cout<<"dulces himnos de paz y de unión."<<endl;
+    
+    
+    return 0;
+}
